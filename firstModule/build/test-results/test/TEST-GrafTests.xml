@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GrafTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-10T08:53:52" hostname="LAPTOP-BGC49718" time="0.084">
+  <properties/>
+  <testcase name="testAddEdgeThrowsException()" classname="GrafTests" time="0.02"/>
+  <testcase name="[1] 0, 1" classname="GrafTests" time="0.026"/>
+  <testcase name="[2] 1, 2" classname="GrafTests" time="0.002"/>
+  <testcase name="[3] 3, 4" classname="GrafTests" time="0.002"/>
+  <testcase name="testCalcPaths()" classname="GrafTests" time="0.002"/>
+  <system-out><![CDATA[Running Test
+Test complete
+Running Test
+Test complete
+Running Test
+Test complete
+Running Test
+Test complete
+Running Test
+Test complete
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

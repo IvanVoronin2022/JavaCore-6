@@ -1,0 +1,5 @@
+rootProject.name = 'JavaCore_2.1'
+include 'firstModule'
+include 'secondModule'
+include 'thirdModule'
+
