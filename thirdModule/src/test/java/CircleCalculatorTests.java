@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-public class TestsCircleCalcilator {
+public class CircleCalculatorTests {
     @BeforeEach
     public void initTest() {
         System.out.println("Running Test");

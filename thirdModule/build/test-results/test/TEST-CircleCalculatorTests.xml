@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CircleCalculatorTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-10T10:42:14" hostname="LAPTOP-BGC49718" time="0.027">
+  <properties/>
+  <testcase name="testCalculateCircleArea1()" classname="CircleCalculatorTests" time="0.023"/>
+  <testcase name="testCalculateCircleArea2()" classname="CircleCalculatorTests" time="0.001"/>
+  <testcase name="testCalculateCircleLength()" classname="CircleCalculatorTests" time="0.001"/>
+  <system-out><![CDATA[Running Test
+Test complete
+Running Test
+Test complete
+Running Test
+Test complete
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
